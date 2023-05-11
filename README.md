@@ -1,4 +1,4 @@
-# Introduction my
+# Introduction m
 
 Welcome to our project! This repository contains all the information and documentation related to our proposal.
 
